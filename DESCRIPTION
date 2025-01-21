@@ -1,7 +1,7 @@
 Package: rjdworkspace
 Type: Package
 Title: Manipulate 'JDemetra+' Workspaces
-Version: 1.1.8
+Version: 1.1.9
 Authors@R: c(
     person(given = "Tanguy", 
            family = "Barthelemy", role = c("aut", "cre", "art"),
@@ -31,7 +31,7 @@ BugReports: https://github.com/InseeFrLab/rjdworkspace/issues
 Encoding: UTF-8
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-01-09 15:02:53 UTC; UTZK0M
+Packaged: 2025-01-21 10:03:02 UTC; UTZK0M
 Author: Tanguy Barthelemy [aut, cre, art],
   Alain Quartier-la-Tente [aut] (<https://orcid.org/0000-0001-7890-3857>),
   Institut national de la statistique et des études économiques [cph]
@@ -39,4 +39,4 @@ Author: Tanguy Barthelemy [aut, cre, art],
   Anna Smyk [aut]
 Maintainer: Tanguy Barthelemy <tanguy.barthelemy@insee.fr>
 Repository: CRAN
-Date/Publication: 2025-01-09 17:10:02 UTC
+Date/Publication: 2025-01-21 13:20:01 UTC

@@ -1,6 +1,6 @@
-05e4e2230cf4138fb02ccc70c4afe517 *DESCRIPTION
+b9f26259aced1ec509c8aa858d3858c2 *DESCRIPTION
 50f911875c1f72d1ed169a2c3e3b9140 *NAMESPACE
-d8cf6608da7168e7046500673efd22fc *NEWS.md
+3c3a89fc18e5ffa869dcbc475019b6b6 *NEWS.md
 649400bf0d6349f47dbfe9b09dfef1c5 *R/copy_ws.R
 a29b722a00242713691f155a16ed46b2 *R/manip_sa_item.R
 818e8df4ed2cad20d075e89985b7dfbc *R/metadata.R
@@ -8,7 +8,7 @@ a29b722a00242713691f155a16ed46b2 *R/manip_sa_item.R
 a08665d7a11c81e0b935f734cc519424 *R/replace_series.R
 dd0fb4538b09b58da789b0a1b13798e9 *R/set_ts.R
 614848e436992fd356e216d1cf884233 *R/transfer_series.R
-eb0b6d8e5a0c10f066c209d24bdc46fc *R/update_path.R
+b22e672e9d1a5b246b02d331ff7693f1 *R/update_path.R
 53f583f69c6fa5a176e338bde6fcbf56 *R/utils.R
 2716a7c04fd0063705a3f5b8bd025c26 *README.md
 991e44daa27bd2a9508289281cf8a61d *inst/extdata/WS/ws_example_1.xml
